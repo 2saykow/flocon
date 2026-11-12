@@ -11,14 +11,14 @@
   hardware.bluetooth.enable = true;
 
   # Defaults: the installer replaces them with the user's choices.
-  time.timeZone = lib.mkDefault "Europe/Paris";
-  i18n.defaultLocale = lib.mkDefault "fr_FR.UTF-8";
-  console.keyMap = lib.mkDefault "fr";
+  time.timeZone = lib.mkDefault "UTC";
+  i18n.defaultLocale = lib.mkDefault "en_US.UTF-8";
+  console.keyMap = lib.mkDefault "us";
 
   # Cinnamon desktop (the one from Linux Mint), LightDM login screen.
   services.xserver = {
     enable = true;
-    xkb.layout = lib.mkDefault "fr";
+    xkb.layout = lib.mkDefault "us";
     desktopManager.cinnamon.enable = true;
     displayManager.lightdm.enable = true;
   };

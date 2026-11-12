@@ -22,6 +22,10 @@ To put the ISO on a USB stick, copy it to a [Ventoy](https://www.ventoy.net) sti
 - `branding/`: logos and images; `python3 branding/generate.py` regenerates them
 - `installer-test`: boots the ISO in QEMU with two test disks
 
+## Contact
+
+Enjoyed the project? Say hi on Telegram: [@Obs3rvateur](https://t.me/Obs3rvateur)
+
 ## License
 
 MIT
