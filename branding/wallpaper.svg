@@ -1,0 +1,838 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3840 2160">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071a33"/><stop offset="0.55" stop-color="#0d3b66"/><stop offset="1" stop-color="#127a8a"/></linearGradient><radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#7fd8ff" stop-opacity="0.35"/><stop offset="1" stop-color="#7fd8ff" stop-opacity="0"/></radialGradient><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="-250" y1="-250" x2="250" y2="250"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#5ecbff"/></linearGradient></defs>
+<rect width="3840" height="2160" fill="url(#bg)"/>
+<g transform="translate(1426,2041)" stroke="#bfe9ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.11">
+<g transform="rotate(0)">
+<line x1="0" y1="-8.58" x2="0" y2="-39"/>
+<polyline points="-8.31,-26.10 0,-20.28 8.31,-26.10"/>
+<polyline points="-5.43,-34.22 0,-30.42 5.43,-34.22"/>
+</g>
+<g transform="rotate(60)">
+<line x1="0" y1="-8.58" x2="0" y2="-39"/>
+<polyline points="-8.31,-26.10 0,-20.28 8.31,-26.10"/>
+<polyline points="-5.43,-34.22 0,-30.42 5.43,-34.22"/>
+</g>
+<g transform="rotate(120)">
+<line x1="0" y1="-8.58" x2="0" y2="-39"/>
+<polyline points="-8.31,-26.10 0,-20.28 8.31,-26.10"/>
+<polyline points="-5.43,-34.22 0,-30.42 5.43,-34.22"/>
+</g>
+<g transform="rotate(180)">
+<line x1="0" y1="-8.58" x2="0" y2="-39"/>
+<polyline points="-8.31,-26.10 0,-20.28 8.31,-26.10"/>
+<polyline points="-5.43,-34.22 0,-30.42 5.43,-34.22"/>
+</g>
+<g transform="rotate(240)">
+<line x1="0" y1="-8.58" x2="0" y2="-39"/>
+<polyline points="-8.31,-26.10 0,-20.28 8.31,-26.10"/>
+<polyline points="-5.43,-34.22 0,-30.42 5.43,-34.22"/>
+</g>
+<g transform="rotate(300)">
+<line x1="0" y1="-8.58" x2="0" y2="-39"/>
+<polyline points="-8.31,-26.10 0,-20.28 8.31,-26.10"/>
+<polyline points="-5.43,-34.22 0,-30.42 5.43,-34.22"/>
+</g>
+<polygon points="0.00,-8.58 7.43,-4.29 7.43,4.29 0.00,8.58 -7.43,4.29 -7.43,-4.29"/></g><g transform="translate(297,248)" stroke="#bfe9ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.12">
+<g transform="rotate(0)">
+<line x1="0" y1="-18.04" x2="0" y2="-82"/>
+<polyline points="-17.46,-54.87 0,-42.64 17.46,-54.87"/>
+<polyline points="-11.42,-71.96 0,-63.96 11.42,-71.96"/>
+</g>
+<g transform="rotate(60)">
+<line x1="0" y1="-18.04" x2="0" y2="-82"/>
+<polyline points="-17.46,-54.87 0,-42.64 17.46,-54.87"/>
+<polyline points="-11.42,-71.96 0,-63.96 11.42,-71.96"/>
+</g>
+<g transform="rotate(120)">
+<line x1="0" y1="-18.04" x2="0" y2="-82"/>
+<polyline points="-17.46,-54.87 0,-42.64 17.46,-54.87"/>
+<polyline points="-11.42,-71.96 0,-63.96 11.42,-71.96"/>
+</g>
+<g transform="rotate(180)">
+<line x1="0" y1="-18.04" x2="0" y2="-82"/>
+<polyline points="-17.46,-54.87 0,-42.64 17.46,-54.87"/>
+<polyline points="-11.42,-71.96 0,-63.96 11.42,-71.96"/>
+</g>
+<g transform="rotate(240)">
+<line x1="0" y1="-18.04" x2="0" y2="-82"/>
+<polyline points="-17.46,-54.87 0,-42.64 17.46,-54.87"/>
+<polyline points="-11.42,-71.96 0,-63.96 11.42,-71.96"/>
+</g>
+<g transform="rotate(300)">
+<line x1="0" y1="-18.04" x2="0" y2="-82"/>
+<polyline points="-17.46,-54.87 0,-42.64 17.46,-54.87"/>
+<polyline points="-11.42,-71.96 0,-63.96 11.42,-71.96"/>
+</g>
+<polygon points="0.00,-18.04 15.62,-9.02 15.62,9.02 0.00,18.04 -15.62,9.02 -15.62,-9.02"/></g><g transform="translate(337,1963)" stroke="#bfe9ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.09">
+<g transform="rotate(0)">
+<line x1="0" y1="-13.64" x2="0" y2="-62"/>
+<polyline points="-13.20,-41.49 0,-32.24 13.20,-41.49"/>
+<polyline points="-8.63,-54.41 0,-48.36 8.63,-54.41"/>
+</g>
+<g transform="rotate(60)">
+<line x1="0" y1="-13.64" x2="0" y2="-62"/>
+<polyline points="-13.20,-41.49 0,-32.24 13.20,-41.49"/>
+<polyline points="-8.63,-54.41 0,-48.36 8.63,-54.41"/>
+</g>
+<g transform="rotate(120)">
+<line x1="0" y1="-13.64" x2="0" y2="-62"/>
+<polyline points="-13.20,-41.49 0,-32.24 13.20,-41.49"/>
+<polyline points="-8.63,-54.41 0,-48.36 8.63,-54.41"/>
+</g>
+<g transform="rotate(180)">
+<line x1="0" y1="-13.64" x2="0" y2="-62"/>
+<polyline points="-13.20,-41.49 0,-32.24 13.20,-41.49"/>
+<polyline points="-8.63,-54.41 0,-48.36 8.63,-54.41"/>
+</g>
+<g transform="rotate(240)">
+<line x1="0" y1="-13.64" x2="0" y2="-62"/>
+<polyline points="-13.20,-41.49 0,-32.24 13.20,-41.49"/>
+<polyline points="-8.63,-54.41 0,-48.36 8.63,-54.41"/>
+</g>
+<g transform="rotate(300)">
+<line x1="0" y1="-13.64" x2="0" y2="-62"/>
+<polyline points="-13.20,-41.49 0,-32.24 13.20,-41.49"/>
+<polyline points="-8.63,-54.41 0,-48.36 8.63,-54.41"/>
+</g>
+<polygon points="0.00,-13.64 11.81,-6.82 11.81,6.82 0.00,13.64 -11.81,6.82 -11.81,-6.82"/></g><g transform="translate(452,988)" stroke="#bfe9ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.07">
+<g transform="rotate(0)">
+<line x1="0" y1="-12.32" x2="0" y2="-56"/>
+<polyline points="-11.93,-37.47 0,-29.12 11.93,-37.47"/>
+<polyline points="-7.80,-49.14 0,-43.68 7.80,-49.14"/>
+</g>
+<g transform="rotate(60)">
+<line x1="0" y1="-12.32" x2="0" y2="-56"/>
+<polyline points="-11.93,-37.47 0,-29.12 11.93,-37.47"/>
+<polyline points="-7.80,-49.14 0,-43.68 7.80,-49.14"/>
+</g>
+<g transform="rotate(120)">
+<line x1="0" y1="-12.32" x2="0" y2="-56"/>
+<polyline points="-11.93,-37.47 0,-29.12 11.93,-37.47"/>
+<polyline points="-7.80,-49.14 0,-43.68 7.80,-49.14"/>
+</g>
+<g transform="rotate(180)">
+<line x1="0" y1="-12.32" x2="0" y2="-56"/>
+<polyline points="-11.93,-37.47 0,-29.12 11.93,-37.47"/>
+<polyline points="-7.80,-49.14 0,-43.68 7.80,-49.14"/>
+</g>
+<g transform="rotate(240)">
+<line x1="0" y1="-12.32" x2="0" y2="-56"/>
+<polyline points="-11.93,-37.47 0,-29.12 11.93,-37.47"/>
+<polyline points="-7.80,-49.14 0,-43.68 7.80,-49.14"/>
+</g>
+<g transform="rotate(300)">
+<line x1="0" y1="-12.32" x2="0" y2="-56"/>
+<polyline points="-11.93,-37.47 0,-29.12 11.93,-37.47"/>
+<polyline points="-7.80,-49.14 0,-43.68 7.80,-49.14"/>
+</g>
+<polygon points="0.00,-12.32 10.67,-6.16 10.67,6.16 0.00,12.32 -10.67,6.16 -10.67,-6.16"/></g><g transform="translate(471,1228)" stroke="#bfe9ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.07">
+<g transform="rotate(0)">
+<line x1="0" y1="-12.540000000000001" x2="0" y2="-57"/>
+<polyline points="-12.14,-38.14 0,-29.64 12.14,-38.14"/>
+<polyline points="-7.94,-50.02 0,-44.46 7.94,-50.02"/>
+</g>
+<g transform="rotate(60)">
+<line x1="0" y1="-12.540000000000001" x2="0" y2="-57"/>
+<polyline points="-12.14,-38.14 0,-29.64 12.14,-38.14"/>
+<polyline points="-7.94,-50.02 0,-44.46 7.94,-50.02"/>
+</g>
+<g transform="rotate(120)">
+<line x1="0" y1="-12.540000000000001" x2="0" y2="-57"/>
+<polyline points="-12.14,-38.14 0,-29.64 12.14,-38.14"/>
+<polyline points="-7.94,-50.02 0,-44.46 7.94,-50.02"/>
+</g>
+<g transform="rotate(180)">
+<line x1="0" y1="-12.540000000000001" x2="0" y2="-57"/>
+<polyline points="-12.14,-38.14 0,-29.64 12.14,-38.14"/>
+<polyline points="-7.94,-50.02 0,-44.46 7.94,-50.02"/>
+</g>
+<g transform="rotate(240)">
+<line x1="0" y1="-12.540000000000001" x2="0" y2="-57"/>
+<polyline points="-12.14,-38.14 0,-29.64 12.14,-38.14"/>
+<polyline points="-7.94,-50.02 0,-44.46 7.94,-50.02"/>
+</g>
+<g transform="rotate(300)">
+<line x1="0" y1="-12.540000000000001" x2="0" y2="-57"/>
+<polyline points="-12.14,-38.14 0,-29.64 12.14,-38.14"/>
+<polyline points="-7.94,-50.02 0,-44.46 7.94,-50.02"/>
+</g>
+<polygon points="0.00,-12.54 10.86,-6.27 10.86,6.27 0.00,12.54 -10.86,6.27 -10.86,-6.27"/></g><g transform="translate(1014,1391)" stroke="#bfe9ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.13">
+<g transform="rotate(0)">
+<line x1="0" y1="-15.4" x2="0" y2="-70"/>
+<polyline points="-14.91,-46.84 0,-36.40 14.91,-46.84"/>
+<polyline points="-9.75,-61.43 0,-54.60 9.75,-61.43"/>
+</g>
+<g transform="rotate(60)">
+<line x1="0" y1="-15.4" x2="0" y2="-70"/>
+<polyline points="-14.91,-46.84 0,-36.40 14.91,-46.84"/>
+<polyline points="-9.75,-61.43 0,-54.60 9.75,-61.43"/>
+</g>
+<g transform="rotate(120)">
+<line x1="0" y1="-15.4" x2="0" y2="-70"/>
+<polyline points="-14.91,-46.84 0,-36.40 14.91,-46.84"/>
+<polyline points="-9.75,-61.43 0,-54.60 9.75,-61.43"/>
+</g>
+<g transform="rotate(180)">
+<line x1="0" y1="-15.4" x2="0" y2="-70"/>
+<polyline points="-14.91,-46.84 0,-36.40 14.91,-46.84"/>
+<polyline points="-9.75,-61.43 0,-54.60 9.75,-61.43"/>
+</g>
+<g transform="rotate(240)">
+<line x1="0" y1="-15.4" x2="0" y2="-70"/>
+<polyline points="-14.91,-46.84 0,-36.40 14.91,-46.84"/>
+<polyline points="-9.75,-61.43 0,-54.60 9.75,-61.43"/>
+</g>
+<g transform="rotate(300)">
+<line x1="0" y1="-15.4" x2="0" y2="-70"/>
+<polyline points="-14.91,-46.84 0,-36.40 14.91,-46.84"/>
+<polyline points="-9.75,-61.43 0,-54.60 9.75,-61.43"/>
+</g>
+<polygon points="0.00,-15.40 13.34,-7.70 13.34,7.70 0.00,15.40 -13.34,7.70 -13.34,-7.70"/></g><g transform="translate(353,1281)" stroke="#bfe9ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.11">
+<g transform="rotate(0)">
+<line x1="0" y1="-14.74" x2="0" y2="-67"/>
+<polyline points="-14.27,-44.83 0,-34.84 14.27,-44.83"/>
+<polyline points="-9.33,-58.79 0,-52.26 9.33,-58.79"/>
+</g>
+<g transform="rotate(60)">
+<line x1="0" y1="-14.74" x2="0" y2="-67"/>
+<polyline points="-14.27,-44.83 0,-34.84 14.27,-44.83"/>
+<polyline points="-9.33,-58.79 0,-52.26 9.33,-58.79"/>
+</g>
+<g transform="rotate(120)">
+<line x1="0" y1="-14.74" x2="0" y2="-67"/>
+<polyline points="-14.27,-44.83 0,-34.84 14.27,-44.83"/>
+<polyline points="-9.33,-58.79 0,-52.26 9.33,-58.79"/>
+</g>
+<g transform="rotate(180)">
+<line x1="0" y1="-14.74" x2="0" y2="-67"/>
+<polyline points="-14.27,-44.83 0,-34.84 14.27,-44.83"/>
+<polyline points="-9.33,-58.79 0,-52.26 9.33,-58.79"/>
+</g>
+<g transform="rotate(240)">
+<line x1="0" y1="-14.74" x2="0" y2="-67"/>
+<polyline points="-14.27,-44.83 0,-34.84 14.27,-44.83"/>
+<polyline points="-9.33,-58.79 0,-52.26 9.33,-58.79"/>
+</g>
+<g transform="rotate(300)">
+<line x1="0" y1="-14.74" x2="0" y2="-67"/>
+<polyline points="-14.27,-44.83 0,-34.84 14.27,-44.83"/>
+<polyline points="-9.33,-58.79 0,-52.26 9.33,-58.79"/>
+</g>
+<polygon points="0.00,-14.74 12.77,-7.37 12.77,7.37 0.00,14.74 -12.77,7.37 -12.77,-7.37"/></g><g transform="translate(1005,195)" stroke="#bfe9ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.16">
+<g transform="rotate(0)">
+<line x1="0" y1="-14.3" x2="0" y2="-65"/>
+<polyline points="-13.84,-43.49 0,-33.80 13.84,-43.49"/>
+<polyline points="-9.05,-57.04 0,-50.70 9.05,-57.04"/>
+</g>
+<g transform="rotate(60)">
+<line x1="0" y1="-14.3" x2="0" y2="-65"/>
+<polyline points="-13.84,-43.49 0,-33.80 13.84,-43.49"/>
+<polyline points="-9.05,-57.04 0,-50.70 9.05,-57.04"/>
+</g>
+<g transform="rotate(120)">
+<line x1="0" y1="-14.3" x2="0" y2="-65"/>
+<polyline points="-13.84,-43.49 0,-33.80 13.84,-43.49"/>
+<polyline points="-9.05,-57.04 0,-50.70 9.05,-57.04"/>
+</g>
+<g transform="rotate(180)">
+<line x1="0" y1="-14.3" x2="0" y2="-65"/>
+<polyline points="-13.84,-43.49 0,-33.80 13.84,-43.49"/>
+<polyline points="-9.05,-57.04 0,-50.70 9.05,-57.04"/>
+</g>
+<g transform="rotate(240)">
+<line x1="0" y1="-14.3" x2="0" y2="-65"/>
+<polyline points="-13.84,-43.49 0,-33.80 13.84,-43.49"/>
+<polyline points="-9.05,-57.04 0,-50.70 9.05,-57.04"/>
+</g>
+<g transform="rotate(300)">
+<line x1="0" y1="-14.3" x2="0" y2="-65"/>
+<polyline points="-13.84,-43.49 0,-33.80 13.84,-43.49"/>
+<polyline points="-9.05,-57.04 0,-50.70 9.05,-57.04"/>
+</g>
+<polygon points="0.00,-14.30 12.38,-7.15 12.38,7.15 0.00,14.30 -12.38,7.15 -12.38,-7.15"/></g><g transform="translate(690,1207)" stroke="#bfe9ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.13">
+<g transform="rotate(0)">
+<line x1="0" y1="-8.14" x2="0" y2="-37"/>
+<polyline points="-7.88,-24.76 0,-19.24 7.88,-24.76"/>
+<polyline points="-5.15,-32.47 0,-28.86 5.15,-32.47"/>
+</g>
+<g transform="rotate(60)">
+<line x1="0" y1="-8.14" x2="0" y2="-37"/>
+<polyline points="-7.88,-24.76 0,-19.24 7.88,-24.76"/>
+<polyline points="-5.15,-32.47 0,-28.86 5.15,-32.47"/>
+</g>
+<g transform="rotate(120)">
+<line x1="0" y1="-8.14" x2="0" y2="-37"/>
+<polyline points="-7.88,-24.76 0,-19.24 7.88,-24.76"/>
+<polyline points="-5.15,-32.47 0,-28.86 5.15,-32.47"/>
+</g>
+<g transform="rotate(180)">
+<line x1="0" y1="-8.14" x2="0" y2="-37"/>
+<polyline points="-7.88,-24.76 0,-19.24 7.88,-24.76"/>
+<polyline points="-5.15,-32.47 0,-28.86 5.15,-32.47"/>
+</g>
+<g transform="rotate(240)">
+<line x1="0" y1="-8.14" x2="0" y2="-37"/>
+<polyline points="-7.88,-24.76 0,-19.24 7.88,-24.76"/>
+<polyline points="-5.15,-32.47 0,-28.86 5.15,-32.47"/>
+</g>
+<g transform="rotate(300)">
+<line x1="0" y1="-8.14" x2="0" y2="-37"/>
+<polyline points="-7.88,-24.76 0,-19.24 7.88,-24.76"/>
+<polyline points="-5.15,-32.47 0,-28.86 5.15,-32.47"/>
+</g>
+<polygon points="0.00,-8.14 7.05,-4.07 7.05,4.07 0.00,8.14 -7.05,4.07 -7.05,-4.07"/></g><g transform="translate(2893,470)" stroke="#bfe9ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.13">
+<g transform="rotate(0)">
+<line x1="0" y1="-7.92" x2="0" y2="-36"/>
+<polyline points="-7.67,-24.09 0,-18.72 7.67,-24.09"/>
+<polyline points="-5.01,-31.59 0,-28.08 5.01,-31.59"/>
+</g>
+<g transform="rotate(60)">
+<line x1="0" y1="-7.92" x2="0" y2="-36"/>
+<polyline points="-7.67,-24.09 0,-18.72 7.67,-24.09"/>
+<polyline points="-5.01,-31.59 0,-28.08 5.01,-31.59"/>
+</g>
+<g transform="rotate(120)">
+<line x1="0" y1="-7.92" x2="0" y2="-36"/>
+<polyline points="-7.67,-24.09 0,-18.72 7.67,-24.09"/>
+<polyline points="-5.01,-31.59 0,-28.08 5.01,-31.59"/>
+</g>
+<g transform="rotate(180)">
+<line x1="0" y1="-7.92" x2="0" y2="-36"/>
+<polyline points="-7.67,-24.09 0,-18.72 7.67,-24.09"/>
+<polyline points="-5.01,-31.59 0,-28.08 5.01,-31.59"/>
+</g>
+<g transform="rotate(240)">
+<line x1="0" y1="-7.92" x2="0" y2="-36"/>
+<polyline points="-7.67,-24.09 0,-18.72 7.67,-24.09"/>
+<polyline points="-5.01,-31.59 0,-28.08 5.01,-31.59"/>
+</g>
+<g transform="rotate(300)">
+<line x1="0" y1="-7.92" x2="0" y2="-36"/>
+<polyline points="-7.67,-24.09 0,-18.72 7.67,-24.09"/>
+<polyline points="-5.01,-31.59 0,-28.08 5.01,-31.59"/>
+</g>
+<polygon points="0.00,-7.92 6.86,-3.96 6.86,3.96 0.00,7.92 -6.86,3.96 -6.86,-3.96"/></g><g transform="translate(2716,484)" stroke="#bfe9ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.07">
+<g transform="rotate(0)">
+<line x1="0" y1="-11.66" x2="0" y2="-53"/>
+<polyline points="-11.29,-35.46 0,-27.56 11.29,-35.46"/>
+<polyline points="-7.38,-46.51 0,-41.34 7.38,-46.51"/>
+</g>
+<g transform="rotate(60)">
+<line x1="0" y1="-11.66" x2="0" y2="-53"/>
+<polyline points="-11.29,-35.46 0,-27.56 11.29,-35.46"/>
+<polyline points="-7.38,-46.51 0,-41.34 7.38,-46.51"/>
+</g>
+<g transform="rotate(120)">
+<line x1="0" y1="-11.66" x2="0" y2="-53"/>
+<polyline points="-11.29,-35.46 0,-27.56 11.29,-35.46"/>
+<polyline points="-7.38,-46.51 0,-41.34 7.38,-46.51"/>
+</g>
+<g transform="rotate(180)">
+<line x1="0" y1="-11.66" x2="0" y2="-53"/>
+<polyline points="-11.29,-35.46 0,-27.56 11.29,-35.46"/>
+<polyline points="-7.38,-46.51 0,-41.34 7.38,-46.51"/>
+</g>
+<g transform="rotate(240)">
+<line x1="0" y1="-11.66" x2="0" y2="-53"/>
+<polyline points="-11.29,-35.46 0,-27.56 11.29,-35.46"/>
+<polyline points="-7.38,-46.51 0,-41.34 7.38,-46.51"/>
+</g>
+<g transform="rotate(300)">
+<line x1="0" y1="-11.66" x2="0" y2="-53"/>
+<polyline points="-11.29,-35.46 0,-27.56 11.29,-35.46"/>
+<polyline points="-7.38,-46.51 0,-41.34 7.38,-46.51"/>
+</g>
+<polygon points="0.00,-11.66 10.10,-5.83 10.10,5.83 0.00,11.66 -10.10,5.83 -10.10,-5.83"/></g><g transform="translate(3016,228)" stroke="#bfe9ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.07">
+<g transform="rotate(0)">
+<line x1="0" y1="-14.52" x2="0" y2="-66"/>
+<polyline points="-14.06,-44.16 0,-34.32 14.06,-44.16"/>
+<polyline points="-9.19,-57.92 0,-51.48 9.19,-57.92"/>
+</g>
+<g transform="rotate(60)">
+<line x1="0" y1="-14.52" x2="0" y2="-66"/>
+<polyline points="-14.06,-44.16 0,-34.32 14.06,-44.16"/>
+<polyline points="-9.19,-57.92 0,-51.48 9.19,-57.92"/>
+</g>
+<g transform="rotate(120)">
+<line x1="0" y1="-14.52" x2="0" y2="-66"/>
+<polyline points="-14.06,-44.16 0,-34.32 14.06,-44.16"/>
+<polyline points="-9.19,-57.92 0,-51.48 9.19,-57.92"/>
+</g>
+<g transform="rotate(180)">
+<line x1="0" y1="-14.52" x2="0" y2="-66"/>
+<polyline points="-14.06,-44.16 0,-34.32 14.06,-44.16"/>
+<polyline points="-9.19,-57.92 0,-51.48 9.19,-57.92"/>
+</g>
+<g transform="rotate(240)">
+<line x1="0" y1="-14.52" x2="0" y2="-66"/>
+<polyline points="-14.06,-44.16 0,-34.32 14.06,-44.16"/>
+<polyline points="-9.19,-57.92 0,-51.48 9.19,-57.92"/>
+</g>
+<g transform="rotate(300)">
+<line x1="0" y1="-14.52" x2="0" y2="-66"/>
+<polyline points="-14.06,-44.16 0,-34.32 14.06,-44.16"/>
+<polyline points="-9.19,-57.92 0,-51.48 9.19,-57.92"/>
+</g>
+<polygon points="0.00,-14.52 12.57,-7.26 12.57,7.26 0.00,14.52 -12.57,7.26 -12.57,-7.26"/></g><g transform="translate(943,1116)" stroke="#bfe9ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.12">
+<g transform="rotate(0)">
+<line x1="0" y1="-16.06" x2="0" y2="-73"/>
+<polyline points="-15.55,-48.85 0,-37.96 15.55,-48.85"/>
+<polyline points="-10.17,-64.06 0,-56.94 10.17,-64.06"/>
+</g>
+<g transform="rotate(60)">
+<line x1="0" y1="-16.06" x2="0" y2="-73"/>
+<polyline points="-15.55,-48.85 0,-37.96 15.55,-48.85"/>
+<polyline points="-10.17,-64.06 0,-56.94 10.17,-64.06"/>
+</g>
+<g transform="rotate(120)">
+<line x1="0" y1="-16.06" x2="0" y2="-73"/>
+<polyline points="-15.55,-48.85 0,-37.96 15.55,-48.85"/>
+<polyline points="-10.17,-64.06 0,-56.94 10.17,-64.06"/>
+</g>
+<g transform="rotate(180)">
+<line x1="0" y1="-16.06" x2="0" y2="-73"/>
+<polyline points="-15.55,-48.85 0,-37.96 15.55,-48.85"/>
+<polyline points="-10.17,-64.06 0,-56.94 10.17,-64.06"/>
+</g>
+<g transform="rotate(240)">
+<line x1="0" y1="-16.06" x2="0" y2="-73"/>
+<polyline points="-15.55,-48.85 0,-37.96 15.55,-48.85"/>
+<polyline points="-10.17,-64.06 0,-56.94 10.17,-64.06"/>
+</g>
+<g transform="rotate(300)">
+<line x1="0" y1="-16.06" x2="0" y2="-73"/>
+<polyline points="-15.55,-48.85 0,-37.96 15.55,-48.85"/>
+<polyline points="-10.17,-64.06 0,-56.94 10.17,-64.06"/>
+</g>
+<polygon points="0.00,-16.06 13.91,-8.03 13.91,8.03 0.00,16.06 -13.91,8.03 -13.91,-8.03"/></g><g transform="translate(3283,743)" stroke="#bfe9ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.13">
+<g transform="rotate(0)">
+<line x1="0" y1="-12.98" x2="0" y2="-59"/>
+<polyline points="-12.57,-39.48 0,-30.68 12.57,-39.48"/>
+<polyline points="-8.22,-51.77 0,-46.02 8.22,-51.77"/>
+</g>
+<g transform="rotate(60)">
+<line x1="0" y1="-12.98" x2="0" y2="-59"/>
+<polyline points="-12.57,-39.48 0,-30.68 12.57,-39.48"/>
+<polyline points="-8.22,-51.77 0,-46.02 8.22,-51.77"/>
+</g>
+<g transform="rotate(120)">
+<line x1="0" y1="-12.98" x2="0" y2="-59"/>
+<polyline points="-12.57,-39.48 0,-30.68 12.57,-39.48"/>
+<polyline points="-8.22,-51.77 0,-46.02 8.22,-51.77"/>
+</g>
+<g transform="rotate(180)">
+<line x1="0" y1="-12.98" x2="0" y2="-59"/>
+<polyline points="-12.57,-39.48 0,-30.68 12.57,-39.48"/>
+<polyline points="-8.22,-51.77 0,-46.02 8.22,-51.77"/>
+</g>
+<g transform="rotate(240)">
+<line x1="0" y1="-12.98" x2="0" y2="-59"/>
+<polyline points="-12.57,-39.48 0,-30.68 12.57,-39.48"/>
+<polyline points="-8.22,-51.77 0,-46.02 8.22,-51.77"/>
+</g>
+<g transform="rotate(300)">
+<line x1="0" y1="-12.98" x2="0" y2="-59"/>
+<polyline points="-12.57,-39.48 0,-30.68 12.57,-39.48"/>
+<polyline points="-8.22,-51.77 0,-46.02 8.22,-51.77"/>
+</g>
+<polygon points="0.00,-12.98 11.24,-6.49 11.24,6.49 0.00,12.98 -11.24,6.49 -11.24,-6.49"/></g><g transform="translate(3353,468)" stroke="#bfe9ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.15">
+<g transform="rotate(0)">
+<line x1="0" y1="-16.28" x2="0" y2="-74"/>
+<polyline points="-15.76,-49.52 0,-38.48 15.76,-49.52"/>
+<polyline points="-10.30,-64.94 0,-57.72 10.30,-64.94"/>
+</g>
+<g transform="rotate(60)">
+<line x1="0" y1="-16.28" x2="0" y2="-74"/>
+<polyline points="-15.76,-49.52 0,-38.48 15.76,-49.52"/>
+<polyline points="-10.30,-64.94 0,-57.72 10.30,-64.94"/>
+</g>
+<g transform="rotate(120)">
+<line x1="0" y1="-16.28" x2="0" y2="-74"/>
+<polyline points="-15.76,-49.52 0,-38.48 15.76,-49.52"/>
+<polyline points="-10.30,-64.94 0,-57.72 10.30,-64.94"/>
+</g>
+<g transform="rotate(180)">
+<line x1="0" y1="-16.28" x2="0" y2="-74"/>
+<polyline points="-15.76,-49.52 0,-38.48 15.76,-49.52"/>
+<polyline points="-10.30,-64.94 0,-57.72 10.30,-64.94"/>
+</g>
+<g transform="rotate(240)">
+<line x1="0" y1="-16.28" x2="0" y2="-74"/>
+<polyline points="-15.76,-49.52 0,-38.48 15.76,-49.52"/>
+<polyline points="-10.30,-64.94 0,-57.72 10.30,-64.94"/>
+</g>
+<g transform="rotate(300)">
+<line x1="0" y1="-16.28" x2="0" y2="-74"/>
+<polyline points="-15.76,-49.52 0,-38.48 15.76,-49.52"/>
+<polyline points="-10.30,-64.94 0,-57.72 10.30,-64.94"/>
+</g>
+<polygon points="0.00,-16.28 14.10,-8.14 14.10,8.14 0.00,16.28 -14.10,8.14 -14.10,-8.14"/></g><g transform="translate(435,1276)" stroke="#bfe9ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.12">
+<g transform="rotate(0)">
+<line x1="0" y1="-10.78" x2="0" y2="-49"/>
+<polyline points="-10.44,-32.79 0,-25.48 10.44,-32.79"/>
+<polyline points="-6.82,-43.00 0,-38.22 6.82,-43.00"/>
+</g>
+<g transform="rotate(60)">
+<line x1="0" y1="-10.78" x2="0" y2="-49"/>
+<polyline points="-10.44,-32.79 0,-25.48 10.44,-32.79"/>
+<polyline points="-6.82,-43.00 0,-38.22 6.82,-43.00"/>
+</g>
+<g transform="rotate(120)">
+<line x1="0" y1="-10.78" x2="0" y2="-49"/>
+<polyline points="-10.44,-32.79 0,-25.48 10.44,-32.79"/>
+<polyline points="-6.82,-43.00 0,-38.22 6.82,-43.00"/>
+</g>
+<g transform="rotate(180)">
+<line x1="0" y1="-10.78" x2="0" y2="-49"/>
+<polyline points="-10.44,-32.79 0,-25.48 10.44,-32.79"/>
+<polyline points="-6.82,-43.00 0,-38.22 6.82,-43.00"/>
+</g>
+<g transform="rotate(240)">
+<line x1="0" y1="-10.78" x2="0" y2="-49"/>
+<polyline points="-10.44,-32.79 0,-25.48 10.44,-32.79"/>
+<polyline points="-6.82,-43.00 0,-38.22 6.82,-43.00"/>
+</g>
+<g transform="rotate(300)">
+<line x1="0" y1="-10.78" x2="0" y2="-49"/>
+<polyline points="-10.44,-32.79 0,-25.48 10.44,-32.79"/>
+<polyline points="-6.82,-43.00 0,-38.22 6.82,-43.00"/>
+</g>
+<polygon points="0.00,-10.78 9.34,-5.39 9.34,5.39 0.00,10.78 -9.34,5.39 -9.34,-5.39"/></g><g transform="translate(3684,803)" stroke="#bfe9ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.11">
+<g transform="rotate(0)">
+<line x1="0" y1="-16.72" x2="0" y2="-76"/>
+<polyline points="-16.19,-50.85 0,-39.52 16.19,-50.85"/>
+<polyline points="-10.58,-66.69 0,-59.28 10.58,-66.69"/>
+</g>
+<g transform="rotate(60)">
+<line x1="0" y1="-16.72" x2="0" y2="-76"/>
+<polyline points="-16.19,-50.85 0,-39.52 16.19,-50.85"/>
+<polyline points="-10.58,-66.69 0,-59.28 10.58,-66.69"/>
+</g>
+<g transform="rotate(120)">
+<line x1="0" y1="-16.72" x2="0" y2="-76"/>
+<polyline points="-16.19,-50.85 0,-39.52 16.19,-50.85"/>
+<polyline points="-10.58,-66.69 0,-59.28 10.58,-66.69"/>
+</g>
+<g transform="rotate(180)">
+<line x1="0" y1="-16.72" x2="0" y2="-76"/>
+<polyline points="-16.19,-50.85 0,-39.52 16.19,-50.85"/>
+<polyline points="-10.58,-66.69 0,-59.28 10.58,-66.69"/>
+</g>
+<g transform="rotate(240)">
+<line x1="0" y1="-16.72" x2="0" y2="-76"/>
+<polyline points="-16.19,-50.85 0,-39.52 16.19,-50.85"/>
+<polyline points="-10.58,-66.69 0,-59.28 10.58,-66.69"/>
+</g>
+<g transform="rotate(300)">
+<line x1="0" y1="-16.72" x2="0" y2="-76"/>
+<polyline points="-16.19,-50.85 0,-39.52 16.19,-50.85"/>
+<polyline points="-10.58,-66.69 0,-59.28 10.58,-66.69"/>
+</g>
+<polygon points="0.00,-16.72 14.48,-8.36 14.48,8.36 0.00,16.72 -14.48,8.36 -14.48,-8.36"/></g><g transform="translate(2594,249)" stroke="#bfe9ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.12">
+<g transform="rotate(0)">
+<line x1="0" y1="-8.14" x2="0" y2="-37"/>
+<polyline points="-7.88,-24.76 0,-19.24 7.88,-24.76"/>
+<polyline points="-5.15,-32.47 0,-28.86 5.15,-32.47"/>
+</g>
+<g transform="rotate(60)">
+<line x1="0" y1="-8.14" x2="0" y2="-37"/>
+<polyline points="-7.88,-24.76 0,-19.24 7.88,-24.76"/>
+<polyline points="-5.15,-32.47 0,-28.86 5.15,-32.47"/>
+</g>
+<g transform="rotate(120)">
+<line x1="0" y1="-8.14" x2="0" y2="-37"/>
+<polyline points="-7.88,-24.76 0,-19.24 7.88,-24.76"/>
+<polyline points="-5.15,-32.47 0,-28.86 5.15,-32.47"/>
+</g>
+<g transform="rotate(180)">
+<line x1="0" y1="-8.14" x2="0" y2="-37"/>
+<polyline points="-7.88,-24.76 0,-19.24 7.88,-24.76"/>
+<polyline points="-5.15,-32.47 0,-28.86 5.15,-32.47"/>
+</g>
+<g transform="rotate(240)">
+<line x1="0" y1="-8.14" x2="0" y2="-37"/>
+<polyline points="-7.88,-24.76 0,-19.24 7.88,-24.76"/>
+<polyline points="-5.15,-32.47 0,-28.86 5.15,-32.47"/>
+</g>
+<g transform="rotate(300)">
+<line x1="0" y1="-8.14" x2="0" y2="-37"/>
+<polyline points="-7.88,-24.76 0,-19.24 7.88,-24.76"/>
+<polyline points="-5.15,-32.47 0,-28.86 5.15,-32.47"/>
+</g>
+<polygon points="0.00,-8.14 7.05,-4.07 7.05,4.07 0.00,8.14 -7.05,4.07 -7.05,-4.07"/></g><g transform="translate(775,1650)" stroke="#bfe9ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.08">
+<g transform="rotate(0)">
+<line x1="0" y1="-11.22" x2="0" y2="-51"/>
+<polyline points="-10.86,-34.13 0,-26.52 10.86,-34.13"/>
+<polyline points="-7.10,-44.75 0,-39.78 7.10,-44.75"/>
+</g>
+<g transform="rotate(60)">
+<line x1="0" y1="-11.22" x2="0" y2="-51"/>
+<polyline points="-10.86,-34.13 0,-26.52 10.86,-34.13"/>
+<polyline points="-7.10,-44.75 0,-39.78 7.10,-44.75"/>
+</g>
+<g transform="rotate(120)">
+<line x1="0" y1="-11.22" x2="0" y2="-51"/>
+<polyline points="-10.86,-34.13 0,-26.52 10.86,-34.13"/>
+<polyline points="-7.10,-44.75 0,-39.78 7.10,-44.75"/>
+</g>
+<g transform="rotate(180)">
+<line x1="0" y1="-11.22" x2="0" y2="-51"/>
+<polyline points="-10.86,-34.13 0,-26.52 10.86,-34.13"/>
+<polyline points="-7.10,-44.75 0,-39.78 7.10,-44.75"/>
+</g>
+<g transform="rotate(240)">
+<line x1="0" y1="-11.22" x2="0" y2="-51"/>
+<polyline points="-10.86,-34.13 0,-26.52 10.86,-34.13"/>
+<polyline points="-7.10,-44.75 0,-39.78 7.10,-44.75"/>
+</g>
+<g transform="rotate(300)">
+<line x1="0" y1="-11.22" x2="0" y2="-51"/>
+<polyline points="-10.86,-34.13 0,-26.52 10.86,-34.13"/>
+<polyline points="-7.10,-44.75 0,-39.78 7.10,-44.75"/>
+</g>
+<polygon points="0.00,-11.22 9.72,-5.61 9.72,5.61 0.00,11.22 -9.72,5.61 -9.72,-5.61"/></g><g transform="translate(260,1468)" stroke="#bfe9ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.15">
+<g transform="rotate(0)">
+<line x1="0" y1="-7.48" x2="0" y2="-34"/>
+<polyline points="-7.24,-22.75 0,-17.68 7.24,-22.75"/>
+<polyline points="-4.73,-29.84 0,-26.52 4.73,-29.84"/>
+</g>
+<g transform="rotate(60)">
+<line x1="0" y1="-7.48" x2="0" y2="-34"/>
+<polyline points="-7.24,-22.75 0,-17.68 7.24,-22.75"/>
+<polyline points="-4.73,-29.84 0,-26.52 4.73,-29.84"/>
+</g>
+<g transform="rotate(120)">
+<line x1="0" y1="-7.48" x2="0" y2="-34"/>
+<polyline points="-7.24,-22.75 0,-17.68 7.24,-22.75"/>
+<polyline points="-4.73,-29.84 0,-26.52 4.73,-29.84"/>
+</g>
+<g transform="rotate(180)">
+<line x1="0" y1="-7.48" x2="0" y2="-34"/>
+<polyline points="-7.24,-22.75 0,-17.68 7.24,-22.75"/>
+<polyline points="-4.73,-29.84 0,-26.52 4.73,-29.84"/>
+</g>
+<g transform="rotate(240)">
+<line x1="0" y1="-7.48" x2="0" y2="-34"/>
+<polyline points="-7.24,-22.75 0,-17.68 7.24,-22.75"/>
+<polyline points="-4.73,-29.84 0,-26.52 4.73,-29.84"/>
+</g>
+<g transform="rotate(300)">
+<line x1="0" y1="-7.48" x2="0" y2="-34"/>
+<polyline points="-7.24,-22.75 0,-17.68 7.24,-22.75"/>
+<polyline points="-4.73,-29.84 0,-26.52 4.73,-29.84"/>
+</g>
+<polygon points="0.00,-7.48 6.48,-3.74 6.48,3.74 0.00,7.48 -6.48,3.74 -6.48,-3.74"/></g><g transform="translate(3685,1775)" stroke="#bfe9ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.1">
+<g transform="rotate(0)">
+<line x1="0" y1="-11.0" x2="0" y2="-50"/>
+<polyline points="-10.65,-33.46 0,-26.00 10.65,-33.46"/>
+<polyline points="-6.96,-43.88 0,-39.00 6.96,-43.88"/>
+</g>
+<g transform="rotate(60)">
+<line x1="0" y1="-11.0" x2="0" y2="-50"/>
+<polyline points="-10.65,-33.46 0,-26.00 10.65,-33.46"/>
+<polyline points="-6.96,-43.88 0,-39.00 6.96,-43.88"/>
+</g>
+<g transform="rotate(120)">
+<line x1="0" y1="-11.0" x2="0" y2="-50"/>
+<polyline points="-10.65,-33.46 0,-26.00 10.65,-33.46"/>
+<polyline points="-6.96,-43.88 0,-39.00 6.96,-43.88"/>
+</g>
+<g transform="rotate(180)">
+<line x1="0" y1="-11.0" x2="0" y2="-50"/>
+<polyline points="-10.65,-33.46 0,-26.00 10.65,-33.46"/>
+<polyline points="-6.96,-43.88 0,-39.00 6.96,-43.88"/>
+</g>
+<g transform="rotate(240)">
+<line x1="0" y1="-11.0" x2="0" y2="-50"/>
+<polyline points="-10.65,-33.46 0,-26.00 10.65,-33.46"/>
+<polyline points="-6.96,-43.88 0,-39.00 6.96,-43.88"/>
+</g>
+<g transform="rotate(300)">
+<line x1="0" y1="-11.0" x2="0" y2="-50"/>
+<polyline points="-10.65,-33.46 0,-26.00 10.65,-33.46"/>
+<polyline points="-6.96,-43.88 0,-39.00 6.96,-43.88"/>
+</g>
+<polygon points="0.00,-11.00 9.53,-5.50 9.53,5.50 0.00,11.00 -9.53,5.50 -9.53,-5.50"/></g><g transform="translate(3364,1034)" stroke="#bfe9ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.16">
+<g transform="rotate(0)">
+<line x1="0" y1="-7.48" x2="0" y2="-34"/>
+<polyline points="-7.24,-22.75 0,-17.68 7.24,-22.75"/>
+<polyline points="-4.73,-29.84 0,-26.52 4.73,-29.84"/>
+</g>
+<g transform="rotate(60)">
+<line x1="0" y1="-7.48" x2="0" y2="-34"/>
+<polyline points="-7.24,-22.75 0,-17.68 7.24,-22.75"/>
+<polyline points="-4.73,-29.84 0,-26.52 4.73,-29.84"/>
+</g>
+<g transform="rotate(120)">
+<line x1="0" y1="-7.48" x2="0" y2="-34"/>
+<polyline points="-7.24,-22.75 0,-17.68 7.24,-22.75"/>
+<polyline points="-4.73,-29.84 0,-26.52 4.73,-29.84"/>
+</g>
+<g transform="rotate(180)">
+<line x1="0" y1="-7.48" x2="0" y2="-34"/>
+<polyline points="-7.24,-22.75 0,-17.68 7.24,-22.75"/>
+<polyline points="-4.73,-29.84 0,-26.52 4.73,-29.84"/>
+</g>
+<g transform="rotate(240)">
+<line x1="0" y1="-7.48" x2="0" y2="-34"/>
+<polyline points="-7.24,-22.75 0,-17.68 7.24,-22.75"/>
+<polyline points="-4.73,-29.84 0,-26.52 4.73,-29.84"/>
+</g>
+<g transform="rotate(300)">
+<line x1="0" y1="-7.48" x2="0" y2="-34"/>
+<polyline points="-7.24,-22.75 0,-17.68 7.24,-22.75"/>
+<polyline points="-4.73,-29.84 0,-26.52 4.73,-29.84"/>
+</g>
+<polygon points="0.00,-7.48 6.48,-3.74 6.48,3.74 0.00,7.48 -6.48,3.74 -6.48,-3.74"/></g><g transform="translate(2955,1460)" stroke="#bfe9ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.07">
+<g transform="rotate(0)">
+<line x1="0" y1="-7.48" x2="0" y2="-34"/>
+<polyline points="-7.24,-22.75 0,-17.68 7.24,-22.75"/>
+<polyline points="-4.73,-29.84 0,-26.52 4.73,-29.84"/>
+</g>
+<g transform="rotate(60)">
+<line x1="0" y1="-7.48" x2="0" y2="-34"/>
+<polyline points="-7.24,-22.75 0,-17.68 7.24,-22.75"/>
+<polyline points="-4.73,-29.84 0,-26.52 4.73,-29.84"/>
+</g>
+<g transform="rotate(120)">
+<line x1="0" y1="-7.48" x2="0" y2="-34"/>
+<polyline points="-7.24,-22.75 0,-17.68 7.24,-22.75"/>
+<polyline points="-4.73,-29.84 0,-26.52 4.73,-29.84"/>
+</g>
+<g transform="rotate(180)">
+<line x1="0" y1="-7.48" x2="0" y2="-34"/>
+<polyline points="-7.24,-22.75 0,-17.68 7.24,-22.75"/>
+<polyline points="-4.73,-29.84 0,-26.52 4.73,-29.84"/>
+</g>
+<g transform="rotate(240)">
+<line x1="0" y1="-7.48" x2="0" y2="-34"/>
+<polyline points="-7.24,-22.75 0,-17.68 7.24,-22.75"/>
+<polyline points="-4.73,-29.84 0,-26.52 4.73,-29.84"/>
+</g>
+<g transform="rotate(300)">
+<line x1="0" y1="-7.48" x2="0" y2="-34"/>
+<polyline points="-7.24,-22.75 0,-17.68 7.24,-22.75"/>
+<polyline points="-4.73,-29.84 0,-26.52 4.73,-29.84"/>
+</g>
+<polygon points="0.00,-7.48 6.48,-3.74 6.48,3.74 0.00,7.48 -6.48,3.74 -6.48,-3.74"/></g><g transform="translate(2973,734)" stroke="#bfe9ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.13">
+<g transform="rotate(0)">
+<line x1="0" y1="-15.62" x2="0" y2="-71"/>
+<polyline points="-15.12,-47.51 0,-36.92 15.12,-47.51"/>
+<polyline points="-9.89,-62.30 0,-55.38 9.89,-62.30"/>
+</g>
+<g transform="rotate(60)">
+<line x1="0" y1="-15.62" x2="0" y2="-71"/>
+<polyline points="-15.12,-47.51 0,-36.92 15.12,-47.51"/>
+<polyline points="-9.89,-62.30 0,-55.38 9.89,-62.30"/>
+</g>
+<g transform="rotate(120)">
+<line x1="0" y1="-15.62" x2="0" y2="-71"/>
+<polyline points="-15.12,-47.51 0,-36.92 15.12,-47.51"/>
+<polyline points="-9.89,-62.30 0,-55.38 9.89,-62.30"/>
+</g>
+<g transform="rotate(180)">
+<line x1="0" y1="-15.62" x2="0" y2="-71"/>
+<polyline points="-15.12,-47.51 0,-36.92 15.12,-47.51"/>
+<polyline points="-9.89,-62.30 0,-55.38 9.89,-62.30"/>
+</g>
+<g transform="rotate(240)">
+<line x1="0" y1="-15.62" x2="0" y2="-71"/>
+<polyline points="-15.12,-47.51 0,-36.92 15.12,-47.51"/>
+<polyline points="-9.89,-62.30 0,-55.38 9.89,-62.30"/>
+</g>
+<g transform="rotate(300)">
+<line x1="0" y1="-15.62" x2="0" y2="-71"/>
+<polyline points="-15.12,-47.51 0,-36.92 15.12,-47.51"/>
+<polyline points="-9.89,-62.30 0,-55.38 9.89,-62.30"/>
+</g>
+<polygon points="0.00,-15.62 13.53,-7.81 13.53,7.81 0.00,15.62 -13.53,7.81 -13.53,-7.81"/></g><g transform="translate(2890,1783)" stroke="#bfe9ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.09">
+<g transform="rotate(0)">
+<line x1="0" y1="-12.76" x2="0" y2="-58"/>
+<polyline points="-12.35,-38.81 0,-30.16 12.35,-38.81"/>
+<polyline points="-8.08,-50.90 0,-45.24 8.08,-50.90"/>
+</g>
+<g transform="rotate(60)">
+<line x1="0" y1="-12.76" x2="0" y2="-58"/>
+<polyline points="-12.35,-38.81 0,-30.16 12.35,-38.81"/>
+<polyline points="-8.08,-50.90 0,-45.24 8.08,-50.90"/>
+</g>
+<g transform="rotate(120)">
+<line x1="0" y1="-12.76" x2="0" y2="-58"/>
+<polyline points="-12.35,-38.81 0,-30.16 12.35,-38.81"/>
+<polyline points="-8.08,-50.90 0,-45.24 8.08,-50.90"/>
+</g>
+<g transform="rotate(180)">
+<line x1="0" y1="-12.76" x2="0" y2="-58"/>
+<polyline points="-12.35,-38.81 0,-30.16 12.35,-38.81"/>
+<polyline points="-8.08,-50.90 0,-45.24 8.08,-50.90"/>
+</g>
+<g transform="rotate(240)">
+<line x1="0" y1="-12.76" x2="0" y2="-58"/>
+<polyline points="-12.35,-38.81 0,-30.16 12.35,-38.81"/>
+<polyline points="-8.08,-50.90 0,-45.24 8.08,-50.90"/>
+</g>
+<g transform="rotate(300)">
+<line x1="0" y1="-12.76" x2="0" y2="-58"/>
+<polyline points="-12.35,-38.81 0,-30.16 12.35,-38.81"/>
+<polyline points="-8.08,-50.90 0,-45.24 8.08,-50.90"/>
+</g>
+<polygon points="0.00,-12.76 11.05,-6.38 11.05,6.38 0.00,12.76 -11.05,6.38 -11.05,-6.38"/></g><g transform="translate(2838,810)" stroke="#bfe9ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.17">
+<g transform="rotate(0)">
+<line x1="0" y1="-6.82" x2="0" y2="-31"/>
+<polyline points="-6.60,-20.74 0,-16.12 6.60,-20.74"/>
+<polyline points="-4.32,-27.20 0,-24.18 4.32,-27.20"/>
+</g>
+<g transform="rotate(60)">
+<line x1="0" y1="-6.82" x2="0" y2="-31"/>
+<polyline points="-6.60,-20.74 0,-16.12 6.60,-20.74"/>
+<polyline points="-4.32,-27.20 0,-24.18 4.32,-27.20"/>
+</g>
+<g transform="rotate(120)">
+<line x1="0" y1="-6.82" x2="0" y2="-31"/>
+<polyline points="-6.60,-20.74 0,-16.12 6.60,-20.74"/>
+<polyline points="-4.32,-27.20 0,-24.18 4.32,-27.20"/>
+</g>
+<g transform="rotate(180)">
+<line x1="0" y1="-6.82" x2="0" y2="-31"/>
+<polyline points="-6.60,-20.74 0,-16.12 6.60,-20.74"/>
+<polyline points="-4.32,-27.20 0,-24.18 4.32,-27.20"/>
+</g>
+<g transform="rotate(240)">
+<line x1="0" y1="-6.82" x2="0" y2="-31"/>
+<polyline points="-6.60,-20.74 0,-16.12 6.60,-20.74"/>
+<polyline points="-4.32,-27.20 0,-24.18 4.32,-27.20"/>
+</g>
+<g transform="rotate(300)">
+<line x1="0" y1="-6.82" x2="0" y2="-31"/>
+<polyline points="-6.60,-20.74 0,-16.12 6.60,-20.74"/>
+<polyline points="-4.32,-27.20 0,-24.18 4.32,-27.20"/>
+</g>
+<polygon points="0.00,-6.82 5.91,-3.41 5.91,3.41 0.00,6.82 -5.91,3.41 -5.91,-3.41"/></g>
+<circle cx="1920.0" cy="1080.0" r="900" fill="url(#glow)"/>
+<g transform="translate(1920.0,1080.0)" stroke="url(#g)" stroke-width="44" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.97">
+<g transform="rotate(0)">
+<polyline points="-70.28,-220.81 0,-171.60 70.28,-220.81"/>
+<polyline points="-45.95,-289.58 0,-257.40 45.95,-289.58"/>
+</g>
+<g transform="rotate(60)">
+<polyline points="-70.28,-220.81 0,-171.60 70.28,-220.81"/>
+<polyline points="-45.95,-289.58 0,-257.40 45.95,-289.58"/>
+</g>
+<g transform="rotate(120)">
+<polyline points="-70.28,-220.81 0,-171.60 70.28,-220.81"/>
+<polyline points="-45.95,-289.58 0,-257.40 45.95,-289.58"/>
+</g>
+<g transform="rotate(180)">
+<polyline points="-70.28,-220.81 0,-171.60 70.28,-220.81"/>
+<polyline points="-45.95,-289.58 0,-257.40 45.95,-289.58"/>
+</g>
+<g transform="rotate(240)">
+<polyline points="-70.28,-220.81 0,-171.60 70.28,-220.81"/>
+<polyline points="-45.95,-289.58 0,-257.40 45.95,-289.58"/>
+</g>
+<g transform="rotate(300)">
+<polyline points="-70.28,-220.81 0,-171.60 70.28,-220.81"/>
+<polyline points="-45.95,-289.58 0,-257.40 45.95,-289.58"/>
+</g>
+<polygon points="0.00,-72.60 62.87,-36.30 62.87,36.30 0.00,72.60 -62.87,36.30 -62.87,-36.30"/></g>
+</svg>

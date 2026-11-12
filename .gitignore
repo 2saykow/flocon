@@ -1,0 +1,6 @@
+result*
+*.img
+*.qcow2
+*.log
+flocon-iso.png
+flocon-nixos.png
