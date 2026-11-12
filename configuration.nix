@@ -1,21 +1,21 @@
-# Flocon — configuration du système, commune à la VM de test et à l'ISO.
+# Flocon — system configuration, shared by the test VM and the ISO.
 { pkgs, lib, ... }:
 {
   system.nixos.distroName = "Flocon";
   networking.hostName = lib.mkDefault "flocon";
 
-  # Réseau : NetworkManager gère les vraies cartes Wi-Fi et Ethernet.
+  # Network: NetworkManager handles real Wi-Fi and Ethernet cards.
   networking.networkmanager.enable = true;
-  # Firmware des cartes Wi-Fi/Bluetooth courantes (Intel, Realtek, Atheros…), nécessaire sur une vraie machine.
+  # Firmware for common Wi-Fi/Bluetooth cards (Intel, Realtek, Atheros…), needed on real hardware.
   hardware.enableRedistributableFirmware = true;
   hardware.bluetooth.enable = true;
 
-  # Valeurs par défaut : l'installateur les remplace par les choix de l'utilisateur.
+  # Defaults: the installer replaces them with the user's choices.
   time.timeZone = lib.mkDefault "Europe/Paris";
   i18n.defaultLocale = lib.mkDefault "fr_FR.UTF-8";
   console.keyMap = lib.mkDefault "fr";
 
-  # Bureau Cinnamon (celui de Linux Mint), écran de connexion LightDM.
+  # Cinnamon desktop (the one from Linux Mint), LightDM login screen.
   services.xserver = {
     enable = true;
     xkb.layout = lib.mkDefault "fr";
@@ -23,15 +23,15 @@
     displayManager.lightdm.enable = true;
   };
 
-  # Identité visuelle : logo au démarrage, fond d'écran (bureau + écran de connexion), thème bleu glacier.
+  # Visual identity: boot logo, wallpaper (desktop + login screen), glacier-blue theme.
   boot.plymouth = { enable = true; logo = ./branding/logo.png; };
-  boot.kernelParams = [ "quiet" "splash" ];
-  boot.loader.grub.splashImage = ./branding/boot-efi.png;   # menu de démarrage du système installé   # démarrage silencieux, sinon le journal texte masque le logo
+  boot.kernelParams = [ "quiet" "splash" ];   # silent boot, otherwise the text log hides the logo
   boot.consoleLogLevel = 3;
+  boot.loader.grub.splashImage = ./branding/boot-efi.png;   # boot menu of the installed system
   services.xserver.displayManager.lightdm.background = ./branding/wallpaper.png;
-  services.xserver.displayManager.lightdm.greeters.slick.extraConfig = "logo=${./branding/logo-texte.png}";
+  services.xserver.displayManager.lightdm.greeters.slick.extraConfig = "logo=${./branding/logo-text.png}";
 
-  # Remplace le logo NixOS (icône « nix-snowflake », utilisée par le système et ses applications) par celui de Flocon.
+  # Replaces the NixOS logo ("nix-snowflake" icon, used by the system and its applications) with Flocon's.
   nixpkgs.overlays = [
     (final: prev: {
       nixos-icons = prev.nixos-icons.overrideAttrs (old: {
@@ -53,17 +53,17 @@
       };
       "org/cinnamon/desktop/interface" = { gtk-theme = "Mint-Y-Dark-Aqua"; icon-theme = "Mint-Y-Aqua"; };
       "org/cinnamon/theme".name = "Mint-Y-Dark-Aqua";
-      # Le menu lit son icône dans ce réglage (défaut : cinnamon-symbolic).
+      # The menu reads its icon from this setting (default: cinnamon-symbolic).
       "org/cinnamon".app-menu-icon-name = "flocon-symbolic";
     };
   }];
 
-  # Applications fournies d'office (Cinnamon apporte déjà fichiers, images, PDF, éditeur de texte, calculatrice).
+  # Applications included out of the box (Cinnamon already brings files, images, PDF, text editor, calculator).
   environment.systemPackages = with pkgs; [
     firefox thunderbird libreoffice-fresh vlc git
-    # Icône du menu du bureau : logo Flocon à la place de celui de Cinnamon.
-    (runCommand "flocon-icone-menu" { } ''
-      install -Dm644 ${./branding/logo-symbolique.svg} $out/share/icons/hicolor/scalable/apps/flocon-symbolic.svg
+    # Desktop menu icon: Flocon logo instead of Cinnamon's.
+    (runCommand "flocon-menu-icon" { } ''
+      install -Dm644 ${./branding/logo-symbolic.svg} $out/share/icons/hicolor/scalable/apps/flocon-symbolic.svg
     '')
   ];
 

@@ -1,23 +1,27 @@
 # Flocon
 
-Un système d'exploitation basé sur NixOS 26.05, avec le bureau Cinnamon (celui de Linux Mint), son propre logo, fond d'écran et thème, et un installateur graphique en français.
+An operating system based on NixOS 26.05, with the Cinnamon desktop (the one from Linux Mint), its own logo, wallpaper and theme, and a graphical installer.
 
-![Bureau Flocon](branding/apercu-bureau.png)
+![Flocon desktop](branding/desktop-preview.png)
 
-## Construire
+## Build
 
-Il faut [Nix](https://nixos.org/download) (sur Arch : `sudo pacman -S nix`).
+You need [Nix](https://nixos.org/download) (on Arch: `sudo pacman -S nix`).
 
 ```bash
-./build iso   # ISO amorçable : result-iso/iso/flocon-26.05-x86_64.iso
-./build vm    # essayer Flocon dans une machine virtuelle
+./build iso   # bootable ISO: result-iso/iso/flocon-26.05-x86_64.iso
+./build vm    # try Flocon in a virtual machine
 ```
 
-Pour mettre l'ISO sur une clé USB, copie-la sur une clé [Ventoy](https://www.ventoy.net) ou utilise `dd`.
+To put the ISO on a USB stick, copy it to a [Ventoy](https://www.ventoy.net) stick or use `dd`.
 
-## Contenu
+## Contents
 
-- `configuration.nix` : le système (bureau, réseau, applications, identité visuelle)
-- `installer.nix` : l'ISO et l'installateur Calamares aux couleurs de Flocon
-- `branding/` : logos et images ; `python3 branding/generer.py` les régénère
-- `installer-test` : lance l'ISO dans QEMU avec deux disques de test
+- `configuration.nix`: the system (desktop, network, applications, visual identity)
+- `installer.nix`: the ISO and the Calamares installer in Flocon colours
+- `branding/`: logos and images; `python3 branding/generate.py` regenerates them
+- `installer-test`: boots the ISO in QEMU with two test disks
+
+## License
+
+MIT

@@ -1,5 +1,5 @@
 {
-  description = "Flocon — un OS basé sur NixOS avec le bureau Cinnamon";
+  description = "Flocon — a NixOS-based OS with the Cinnamon desktop";
 
   inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixos-26.05";
 
@@ -12,18 +12,18 @@
       };
     in
     {
-      # VM de test : utilisateur « flocon », connecté automatiquement.
+      # Test VM: user "flocon", logged in automatically.
       nixosConfigurations.flocon-vm = mk [{
         users.users.flocon = {
           isNormalUser = true;
           extraGroups = [ "wheel" "networkmanager" ];
-          initialPassword = "flocon"; # VM de test uniquement
+          initialPassword = "flocon"; # test VM only
         };
         services.displayManager.autoLogin = { enable = true; user = "flocon"; };
         virtualisation.vmVariant.virtualisation = { memorySize = 4096; cores = 4; };
       }];
 
-      # ISO live amorçable sur une vraie machine, avec l'installateur graphique.
+      # Live ISO bootable on real hardware, with the graphical installer.
       nixosConfigurations.flocon-iso = mk [
         "${nixpkgs}/nixos/modules/installer/cd-dvd/installation-cd-graphical-calamares.nix"
         ./installer.nix

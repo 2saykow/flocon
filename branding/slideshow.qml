@@ -1,4 +1,4 @@
-// Diaporama affiché par l'installateur pendant la copie des fichiers.
+// Slideshow shown by the installer while files are being copied.
 import QtQuick 2.0;
 import calamares.slideshow 1.0;
 
@@ -17,7 +17,7 @@ Presentation {
                 anchors.centerIn: parent; anchors.verticalCenterOffset: -60 }
         Text { anchors.top: logo1.bottom; anchors.topMargin: 24; width: presentation.width; horizontalAlignment: Text.Center
                wrapMode: Text.WordWrap; font.pixelSize: 18
-               text: "<b>Bienvenue sur Flocon</b><br/>Un système simple, stable et entièrement décrit par sa configuration." }
+               text: "<b>Welcome to Flocon</b><br/>A simple, stable system, fully described by its configuration." }
     }
 
     Slide {
@@ -25,7 +25,7 @@ Presentation {
                 anchors.centerIn: parent; anchors.verticalCenterOffset: -60 }
         Text { anchors.top: logo2.bottom; anchors.topMargin: 24; width: presentation.width; horizontalAlignment: Text.Center
                wrapMode: Text.WordWrap; font.pixelSize: 18
-               text: "<b>Retour en arrière à tout moment</b><br/>Chaque mise à jour crée une nouvelle version du système ;<br/>en cas de problème, choisissez la précédente au démarrage." }
+               text: "<b>Roll back at any time</b><br/>Every update creates a new version of the system;<br/>if something goes wrong, pick the previous one at boot." }
     }
 
     Slide {
@@ -33,7 +33,7 @@ Presentation {
                 anchors.centerIn: parent; anchors.verticalCenterOffset: -60 }
         Text { anchors.top: logo3.bottom; anchors.topMargin: 24; width: presentation.width; horizontalAlignment: Text.Center
                wrapMode: Text.WordWrap; font.pixelSize: 18
-               text: "<b>Prêt à l'emploi</b><br/>Firefox, Thunderbird, LibreOffice et VLC sont déjà installés." }
+               text: "<b>Ready to use</b><br/>Firefox, Thunderbird, LibreOffice and VLC are already installed." }
     }
 
     function onActivate() { presentation.currentSlide = 0; }
